@@ -4,7 +4,7 @@ import company.Company;
 import project.Project;
 public class Employee {
     private void empName(){
-        System.out.println("Employee Name");
+        System.out.println("Employee Name ");
     }
     public static void main(String[]args){
         Employee e = new Employee();
